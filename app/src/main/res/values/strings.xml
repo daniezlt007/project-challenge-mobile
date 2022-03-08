@@ -3,4 +3,13 @@
     <string name="txt_faca_ligon">Faça o login com seu email e\n senha de acesso.</string>
     <string name="txt_hint_email">EMAIL</string>
     <string name="txt_hint_senha">SENHA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_meu_perfil">MEU PERFIL</string>
+    <string name="txt_nome_perfil">NOME_PERFIL</string>
+    <string name="txt_cidade_perfil">Cidade Perfil - CP</string>
+    <string name="txt_status_acompanhamento">Status Acompanhamento</string>
+    <string name="txt_voltar">Voltar</string>
+    <string name="txt_próximo">Próximo</string>
+
 </resources>
